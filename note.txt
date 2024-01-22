@@ -1,0 +1,28 @@
+905cdefb30e74200aa275c8ef8b86cea
+
+npm install next-auth
+
+heroicons
+
+next.config.js
+
+npm i @react-google-maps/api
+
+npm install react-leaflet
+
+/api/google-place'+
+`category=italian&radius=1000&lat=40.7128&lng=-74.006`
+
+npm i tailwind-scrollbar-hide
+
+
+
+
+
+
+
+
+
+
+
+
